@@ -52,9 +52,8 @@ Desarrollador **full stack orientado a producto**. Me gusta agarrar un problema 
 | Rol | Dónde | Qué hice |
 |---|---|---|
 | **Fundador y dev full stack** | Cuentas Claras · 2026 – hoy | El producto completo, de la base de datos a la venta |
-| **Full Stack Developer** | MaylandLabs · 2025 – 2026 | Yunta, SaaS ganadero: design system, versión mobile, i18n (es/en/pt), flujos de pago |
+| **Frontend Developer** | MaylandLabs · 2025 – 2026 | Yunta, SaaS ganadero: design system, versión mobile, i18n (es/en/pt), flujos de pago |
 | **Frontend Developer** | La Esmeralda Café · 2026 | Ecommerce y panel admin en Next.js: productos con variantes, pedidos con QR, facturación |
-| **Frontend Developer** | Dazlabs · 2024 – 2025 | Componentes reutilizables y renderizado 3D |
 
 ---
 
@@ -70,8 +69,6 @@ Desarrollador **full stack orientado a producto**. Me gusta agarrar un problema 
   <img src="https://img.shields.io/badge/Mercado_Pago-161616?style=flat-square&logo=mercadopago&logoColor=F5D90A" alt="Mercado Pago" />
   <img src="https://img.shields.io/badge/ARCA_·_Factura_electrónica-161616?style=flat-square" alt="ARCA" />
   <img src="https://img.shields.io/badge/Socket.io-161616?style=flat-square&logo=socketdotio&logoColor=F5D90A" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/Stripe-161616?style=flat-square&logo=stripe&logoColor=F5D90A" alt="Stripe" />
-  <img src="https://img.shields.io/badge/WhatsApp_API-161616?style=flat-square&logo=whatsapp&logoColor=F5D90A" alt="WhatsApp API" />
   <img src="https://img.shields.io/badge/Claude_Code-161616?style=flat-square&logo=claude&logoColor=F5D90A" alt="Claude Code" />
 </p>
 

@@ -52,7 +52,7 @@ Desarrollador **full stack orientado a producto**. Me gusta agarrar un problema 
 | Rol | Dónde | Qué hice |
 |---|---|---|
 | **Fundador y dev full stack** | Cuentas Claras · 2026 – hoy | El producto completo, de la base de datos a la venta |
-| **Frontend Developer** | MaylandLabs · 2025 – 2026 | Yunta, SaaS ganadero: design system, versión mobile, i18n (es/en/pt), flujos de pago |
+| **Full Stack Developer** | MaylandLabs · 2025 – 2026 | Yunta, SaaS ganadero: design system, versión mobile, i18n (es/en/pt), flujos de pago y endpoints en NestJS |
 | **Frontend Developer** | La Esmeralda Café · 2026 | Ecommerce y panel admin en Next.js: productos con variantes, pedidos con QR, facturación |
 | **Frontend Developer** | Dazlabs · 2024 – 2025 | Componentes reutilizables y renderizado 3D |
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=161616&height=170&section=header&text=Bruno%20Distaulo&fontColor=F7F5EF&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Tucum%C3%A1n%2C%20Argentina&descAlignY=60&descSize=17" width="100%" alt="Bruno Distaulo" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161616&height=150&section=header&text=Bruno%20Distaulo&fontColor=F7F5EF&fontSize=52&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20Tucum%C3%A1n%2C%20Argentina&descAlignY=68&descSize=17" width="100%" alt="Bruno Distaulo" />
 
 <a href="https://github.com/Brunodistaulo">
   <img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=600&size=21&duration=2600&pause=900&color=F5D90A&center=true&vCenter=true&width=620&lines=Construyo+productos+de+punta+a+punta;TypeScript+%C2%B7+React+%C2%B7+NestJS+%C2%B7+PostgreSQL;Del+primer+commit+a+producci%C3%B3n+con+clientes" alt="Construyo productos de punta a punta" />
@@ -75,8 +75,3 @@ Desarrollador **full stack orientado a producto**. Me gusta agarrar un problema 
   <img src="https://img.shields.io/badge/Claude_Code-161616?style=flat-square&logo=claude&logoColor=F5D90A" alt="Claude Code" />
 </p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=161616&height=110&section=footer" width="100%" alt="" />
-
-</div>

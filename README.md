@@ -1,32 +1,82 @@
-Hola!, Mi nombre es Bruno Distaulo 🧑🏻‍💻
-===============================
+<div align="center">
 
-Desarrollador Frontend | Desarrollador FullStack
-----------------------------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161616,100:2a2a2a&height=170&section=header&text=Bruno%20Distaulo&fontColor=F7F5EF&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Tucum%C3%A1n%2C%20Argentina&descAlignY=60&descSize=17" width="100%" alt="Bruno Distaulo" />
 
-Soy una persona muy amable, considerada y motivada. Mi objetivo es convertirme en un programador altamente competente, capaz de resolver casi cualquier obstáculo que se presente y enfrentar los desafíos con creatividad y determinación.
+<a href="https://github.com/Brunodistaulo">
+  <img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=600&size=21&duration=2600&pause=900&color=F5D90A&center=true&vCenter=true&width=620&lines=Construyo+productos+de+punta+a+punta;TypeScript+%C2%B7+React+%C2%B7+NestJS+%C2%B7+PostgreSQL;Del+primer+commit+a+producci%C3%B3n+con+clientes" alt="Construyo productos de punta a punta" />
+</a>
 
-* 🖥️  Puedes visitar mi portafolio: [Portafolio](http://brunodistauloportafolio.vercel.app)
-* ✉️  Si deseas contactarme usa: [brunodistaulo03@gmail.com](mailto:brunodistaulo03@gmail.com)
-* 🧠  Estoy aprendiendo nuevas tecnologias como: Angular y Vue
-
-<a href="https://www.github.com/Brunodistaulo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Brunodistaulo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Mis Habilidades
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/bruno-distaulo"><img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=F5D90A" alt="LinkedIn" /></a>
+  <a href="mailto:brunodistaulo03@gmail.com"><img src="https://img.shields.io/badge/Email-161616?style=for-the-badge&logo=gmail&logoColor=F5D90A" alt="Email" /></a>
+  <a href="https://brunodistaulo.github.io/CuentasClaras/"><img src="https://img.shields.io/badge/Cuentas_Claras-F5D90A?style=for-the-badge&logoColor=161616" alt="Cuentas Claras" /></a>
 </p>
 
+</div>
 
-### Redes Sociales
+## 👋 Hola, soy Bruno
 
-<p align="left"> <a href="https://www.github.com/Brunodistaulo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bruno-distaulo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+Desarrollador **full stack orientado a producto**. Me gusta agarrar un problema real y llevarlo hasta que alguien lo use todos los días: la interfaz, la API, la base de datos, el deploy y lo que pasa después.
 
-### Insignias 
+- 🚀 Ahora estoy construyendo **[Cuentas Claras](https://brunodistaulo.github.io/CuentasClaras/)**, un sistema de caja que ya usan comercios reales.
+- 💼 Trabajé en equipos de producto con **React y TypeScript**: design systems, mobile, i18n, pagos.
+- 🤖 Desarrollo con **IA como herramienta diaria** (Claude Code) sin perder el criterio técnico.
+- 📫 Abierto a propuestas: [brunodistaulo03@gmail.com](mailto:brunodistaulo03@gmail.com)
 
-<b>Algunas de mis estadisticas de GitHub</b>
+---
 
-<a href="http://www.github.com/Brunodistaulo"><img src="https://github-readme-stats.vercel.app/api?username=Brunodistaulo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Brunodistaulo's GitHub stats" /></a>
+## 🧾 Proyecto destacado: Cuentas Claras
+
+<a href="https://brunodistaulo.github.io/CuentasClaras/">
+  <img src="./assets/cuentas-claras.png" alt="Cuentas Claras: la caja que cierra al centavo" width="100%" />
+</a>
+
+**Sistema de punto de venta para almacenes y kioscos.** Lo diseñé, lo construí y lo opero solo, y está en producción con clientes.
+
+| | |
+|---|---|
+| 🖥️ **App de escritorio** | Electron + React + Tailwind, pensada para usarse con teclado y lector de códigos |
+| ⚙️ **Backend** | NestJS con 20 módulos, PostgreSQL + Prisma, varias cajas sincronizadas en tiempo real con Socket.io |
+| 🧾 **Facturación** | Factura electrónica integrada con ARCA |
+| 💳 **Cobros** | Suscripciones mensuales con Mercado Pago (webhooks) y licencias por negocio |
+| 🔒 **Multi-tenant** | Cada negocio aislado del resto, con pentest propio |
+| 🛠️ **Operación** | Staging y producción, CI/CD con GitHub Actions, instalador que se actualiza solo, backups diarios cifrados, Sentry y UptimeRobot |
+| 🎬 **Lanzamiento** | Landing, videos demo hechos con Remotion y prueba gratis de 30 días |
+
+<sub>~68 mil líneas de TypeScript en un monorepo con pnpm. El código es privado; la landing y el instalador son públicos.</sub>
+
+---
+
+## 💼 Experiencia
+
+| Rol | Dónde | Qué hice |
+|---|---|---|
+| **Fundador y dev full stack** | Cuentas Claras · 2026 – hoy | El producto completo, de la base de datos a la venta |
+| **Full Stack Developer** | MaylandLabs · 2025 – 2026 | Yunta, SaaS ganadero: design system, versión mobile, i18n (es/en/pt), flujos de pago |
+| **Frontend Developer** | La Esmeralda Café · 2026 | Ecommerce y panel admin en Next.js: productos con variantes, pedidos con QR, facturación |
+| **Frontend Developer** | Dazlabs · 2024 – 2025 | Componentes reutilizables y renderizado 3D |
+
+---
+
+## 🧰 Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,vite,electron&perline=8" alt="Frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,mongodb&perline=8" alt="Backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=githubactions,sentry,railway,jest,vitest,playwright,figma,git&perline=8" alt="Herramientas" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mercado_Pago-161616?style=flat-square&logo=mercadopago&logoColor=F5D90A" alt="Mercado Pago" />
+  <img src="https://img.shields.io/badge/ARCA_·_Factura_electrónica-161616?style=flat-square" alt="ARCA" />
+  <img src="https://img.shields.io/badge/Socket.io-161616?style=flat-square&logo=socketdotio&logoColor=F5D90A" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/Stripe-161616?style=flat-square&logo=stripe&logoColor=F5D90A" alt="Stripe" />
+  <img src="https://img.shields.io/badge/WhatsApp_API-161616?style=flat-square&logo=whatsapp&logoColor=F5D90A" alt="WhatsApp API" />
+  <img src="https://img.shields.io/badge/Claude_Code-161616?style=flat-square&logo=claude&logoColor=F5D90A" alt="Claude Code" />
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a2a,100:161616&height=110&section=footer" width="100%" alt="" />
+
+</div>

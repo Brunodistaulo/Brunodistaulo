@@ -19,7 +19,7 @@
 Desarrollador **full stack orientado a producto**. Me gusta agarrar un problema real y llevarlo hasta que alguien lo use todos los días: la interfaz, la API, la base de datos, el deploy y lo que pasa después.
 
 - 🚀 Ahora estoy construyendo **[Cuentas Claras](https://brunodistaulo.github.io/CuentasClaras/)**, un sistema de caja que ya usan comercios reales.
-- 💼 Trabajé en equipos de producto con **React y TypeScript**: design systems, mobile, i18n, pagos.
+- 💼 Trabajé en equipos de producto con **React, React Native y TypeScript**: design systems, apps mobile, i18n, pagos.
 - 🤖 Desarrollo con **IA como herramienta diaria** (Claude Code) sin perder el criterio técnico.
 - 📫 Abierto a propuestas: [brunodistaulo03@gmail.com](mailto:brunodistaulo03@gmail.com)
 
@@ -52,7 +52,7 @@ Desarrollador **full stack orientado a producto**. Me gusta agarrar un problema 
 | Rol | Dónde | Qué hice |
 |---|---|---|
 | **Fundador y dev full stack** | Cuentas Claras · 2026 – hoy | El producto completo, de la base de datos a la venta |
-| **Full Stack Developer** | MaylandLabs · 2025 – 2026 | Yunta, SaaS ganadero: design system, versión mobile, i18n (es/en/pt), flujos de pago y endpoints en NestJS |
+| **Full Stack Developer** | MaylandLabs · 2025 – 2026 | Yunta (SaaS ganadero): design system, versión mobile, i18n y pagos · Express Cash (préstamos): app mobile en React Native + Expo · endpoints en NestJS |
 | **Frontend Developer** | La Esmeralda Café · 2026 | Ecommerce y panel admin en Next.js: productos con variantes, pedidos con QR, facturación |
 | **Frontend Developer** | Dazlabs · 2024 – 2025 | Componentes reutilizables y renderizado 3D |
 

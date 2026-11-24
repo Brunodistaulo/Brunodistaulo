@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161616,100:2a2a2a&height=170&section=header&text=Bruno%20Distaulo&fontColor=F7F5EF&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Tucum%C3%A1n%2C%20Argentina&descAlignY=60&descSize=17" width="100%" alt="Bruno Distaulo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=161616&height=170&section=header&text=Bruno%20Distaulo&fontColor=F7F5EF&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Tucum%C3%A1n%2C%20Argentina&descAlignY=60&descSize=17" width="100%" alt="Bruno Distaulo" />
 
 <a href="https://github.com/Brunodistaulo">
   <img src="https://readme-typing-svg.demolab.com?font=Figtree&weight=600&size=21&duration=2600&pause=900&color=F5D90A&center=true&vCenter=true&width=620&lines=Construyo+productos+de+punta+a+punta;TypeScript+%C2%B7+React+%C2%B7+NestJS+%C2%B7+PostgreSQL;Del+primer+commit+a+producci%C3%B3n+con+clientes" alt="Construyo productos de punta a punta" />
@@ -63,7 +63,7 @@ Desarrollador **full stack orientado a producto**. Me gusta agarrar un problema 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,vite,electron&perline=8" alt="Frontend" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,mongodb&perline=8" alt="Backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=githubactions,sentry,railway,jest,vitest,playwright,figma,git&perline=8" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=githubactions,sentry,jest,vitest,figma,git&perline=8" alt="Herramientas" />
 </p>
 
 <p align="center">
@@ -77,6 +77,6 @@ Desarrollador **full stack orientado a producto**. Me gusta agarrar un problema 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a2a,100:161616&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=161616&height=110&section=footer" width="100%" alt="" />
 
 </div>

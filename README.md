@@ -9,7 +9,7 @@
 <p>
   <a href="https://www.linkedin.com/in/bruno-distaulo"><img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=F5D90A" alt="LinkedIn" /></a>
   <a href="mailto:brunodistaulo03@gmail.com"><img src="https://img.shields.io/badge/Email-161616?style=for-the-badge&logo=gmail&logoColor=F5D90A" alt="Email" /></a>
-  <a href="https://brunodistaulo.github.io/CuentasClaras/"><img src="https://img.shields.io/badge/Cuentas_Claras-F5D90A?style=for-the-badge&logoColor=161616" alt="Cuentas Claras" /></a>
+  <a href="https://brunodistaulo.github.io/CuentasClaras/"><img src="https://img.shields.io/badge/Vuelto_Justo-F5D90A?style=for-the-badge&logoColor=161616" alt="Vuelto Justo" /></a>
 </p>
 
 </div>
@@ -18,17 +18,17 @@
 
 Desarrollador **full stack orientado a producto**. Me gusta agarrar un problema real y llevarlo hasta que alguien lo use todos los días: la interfaz, la API, la base de datos, el deploy y lo que pasa después.
 
-- 🚀 Ahora estoy construyendo **[Cuentas Claras](https://brunodistaulo.github.io/CuentasClaras/)**, un sistema de caja que ya usan comercios reales.
+- 🚀 Ahora estoy construyendo **[Vuelto Justo](https://brunodistaulo.github.io/CuentasClaras/)**, un sistema de caja que ya usan comercios reales.
 - 💼 Trabajé en equipos de producto con **React, React Native y TypeScript**: design systems, apps mobile, i18n, pagos.
 - 🤖 Desarrollo con **IA como herramienta diaria** (Claude Code) sin perder el criterio técnico.
 - 📫 Abierto a propuestas: [brunodistaulo03@gmail.com](mailto:brunodistaulo03@gmail.com)
 
 ---
 
-## 🧾 Proyecto destacado: Cuentas Claras
+## 🧾 Proyecto destacado: Vuelto Justo
 
 <a href="https://brunodistaulo.github.io/CuentasClaras/">
-  <img src="./assets/cuentas-claras.png" alt="Cuentas Claras: la caja que cierra al centavo" width="100%" />
+  <img src="./assets/cuentas-claras.png" alt="Vuelto Justo: la caja que cierra al centavo" width="100%" />
 </a>
 
 **Sistema de punto de venta para almacenes y kioscos.** Lo diseñé, lo construí y lo opero solo, y está en producción con clientes.
@@ -51,7 +51,7 @@ Desarrollador **full stack orientado a producto**. Me gusta agarrar un problema 
 
 | Rol | Dónde | Qué hice |
 |---|---|---|
-| **Fundador y dev full stack** | Cuentas Claras · 2026 – hoy | El producto completo, de la base de datos a la venta |
+| **Fundador y dev full stack** | Vuelto Justo · 2026 – hoy | El producto completo, de la base de datos a la venta |
 | **Full Stack Developer** | MaylandLabs · 2025 – 2026 | Yunta (SaaS ganadero): design system, versión mobile, i18n y pagos · Express Cash (préstamos): app mobile en React Native + Expo · endpoints en NestJS |
 | **Frontend Developer** | La Esmeralda Café · 2026 | Ecommerce y panel admin en Next.js: productos con variantes, pedidos con QR, facturación |
 | **Frontend Developer** | Dazlabs · 2024 – 2025 | Componentes reutilizables y renderizado 3D |
